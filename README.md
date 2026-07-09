@@ -6,11 +6,11 @@ Projet personnel construit avec **Nuxt 3 + TypeScript + Pinia + Chart.js**.
 
 ## Fonctionnalités
 
-- **Saisie de séance** — exercices, séries × reps × poids, notes. Liste d'exercices prédéfinie + exercices personnalisés.
-- **Historique** — séances passées, filtrables par exercice, volume total par séance.
-- **Progression** — graphique d'évolution de la charge max par exercice (Chart.js).
-- **Records personnels** — badge PR sur les meilleures performances.
-- **Suivi corporel** — courbe de poids + objectif.
+- **Saisie de séance** exercices, séries × reps × poids, notes. Liste d'exercices prédéfinie + exercices personnalisés.
+- **Historique** séances passées, filtrables par exercice, volume total par séance.
+- **Progression** graphique d'évolution de la charge max par exercice (Chart.js).
+- **Records personnels** badge PR sur les meilleures performances.
+- **Suivi corporel** courbe de poids + objectif.
 
 ## Stack & choix techniques
 
